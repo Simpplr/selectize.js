@@ -22,7 +22,7 @@
   "dependencies": {
     "jquery": "^1.7.0",
     "microplugin": "0.0.3",
-    "sifter": "^0.5.1"
+    "sifter": "^0.6.0"
   },
   "devDependencies": {
     "chai": "^3.5.0",
